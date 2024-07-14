@@ -53,7 +53,7 @@ function printName(obj: { first: string; last?: string }) {
 //union types
 //can be used to add two or more type annotations
 
-function printId(id: number | string) {
+function printIsd(id: number | string) {
     console.log("Your ID is: " + id);
   }
   // OK
